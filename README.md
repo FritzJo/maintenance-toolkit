@@ -31,6 +31,17 @@ The top-level directory of these "dockerapp" folders has to be inserted in the $
 ## workstation_setup.sh
 ### Description
 Very basic script to install the most important tools on a linux workstation.
+
+Currently the script installs:
+* vim
+* tmux
+* git
+* tree
+* htop
+* curl
+* zsh
+* ranger
+
 ### Supported operating systems
 * Ubuntu
 ### How-To
