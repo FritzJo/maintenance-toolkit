@@ -27,3 +27,14 @@ For the script to work, a special folder structure is required:
 +-- ...
 ```
 The top-level directory of these "dockerapp" folders has to be inserted in the $DOCKERPATH variable inside the script.
+
+## workstation_setup.sh
+### Description
+Very basic script to install the most important tools on a linux workstation.
+### Supported operating systems
+* Ubuntu
+### How-To
+Just execute the script with:
+```bash
+./workstation_setup.sh
+```
