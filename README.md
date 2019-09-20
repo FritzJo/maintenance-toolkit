@@ -2,9 +2,13 @@
 A collection of simple scripts to automate maintenance tasks
 
 - [update_docker.sh](#update-dockersh)
-  - [Description](#description)
-  - [Supported operating systems](#supported-operating-systems)
-  - [How-To](#how-to)
+  * [Description](#description)
+  * [Supported operating systems](#supported-operating-systems)
+  * [How-To](#how-to)
+- [workstation_setup.sh](#workstation-setupsh)
+  * [Description](#description-1)
+  * [Supported operating systems](#supported-operating-systems-1)
+  * [How-To](#how-to-1)
 
 # Details
 ## update_docker.sh
