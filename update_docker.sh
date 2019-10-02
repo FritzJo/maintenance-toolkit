@@ -3,7 +3,7 @@ CURRENTPATH=$PWD
 
 # Update OS
 apt-get update && apt-get -y upgrade
-apt-get autoremove
+apt-get autoremove -y
 
 # Update docker images
 docker images | grep -v REPOSITORY | awk '{print $1}' | xargs -L1 docker pull
