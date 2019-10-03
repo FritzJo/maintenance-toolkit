@@ -53,3 +53,14 @@ Just execute the script with:
 ```bash
 ./workstation_setup.sh
 ```
+
+## website_check.sh
+### Description
+Checks if a website is currently available from the host system.
+### Supported operating systems
+* Linux (requires bash and curl)
+### How-To
+Create a file called websites.txt, containing every site you want to check. The script iterates over the lines of this file as soon as you execute it.
+```bash
+./website_check.sh
+```
