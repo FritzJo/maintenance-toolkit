@@ -9,6 +9,10 @@ A collection of simple scripts to automate maintenance tasks
   * [Description](#description-1)
   * [Supported operating systems](#supported-operating-systems-1)
   * [How-To](#how-to-1)
+- [website_check.sh](#website-checksh)
+  * [Description](#description-2)
+  * [Supported operating systems](#supported-operating-systems-2)
+  * [How-To](#how-to-2)
 
 # Details
 ## update_docker.sh
